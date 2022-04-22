@@ -15,11 +15,13 @@
 ![105373](./assets/105373.jpg)
 -->
 
-[visitors](https://visitor-badge.glitch.me/badge?page_id=mad-center.github&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mad-center.github&left_color=gray&right_color=green)
 
+> 欢迎来到静止系MAD的教程世界。
 
 <details>
   <summary>Click me to expand</summary>
+  
   ![105373](https://github.com/mad-center/.github/blob/main/profile/assets/105373.jpg)
 </details>    
 

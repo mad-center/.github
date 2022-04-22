@@ -11,10 +11,16 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-
 <!--
 ![105373](./assets/105373.jpg)
 -->
 
-![105373](https://github.com/mad-center/.github/blob/main/profile/assets/105373.jpg)
+[visitors](https://visitor-badge.glitch.me/badge?page_id=mad-center.github&left_color=green&right_color=red)
+
+
+<details>
+  <summary>Click me to expand</summary>
+  ![105373](https://github.com/mad-center/.github/blob/main/profile/assets/105373.jpg)
+</details>    
+
 

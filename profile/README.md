@@ -21,6 +21,6 @@
 
 <details>
   <summary>Click me to expand</summary>
-  ![105373](https://github.com/mad-center/.github/blob/main/profile/assets/narcissu-1.jpeg)
+  ![banner](https://github.com/mad-center/.github/blob/main/profile/assets/sora-no-woto-1.jpg)
 </details>    
 

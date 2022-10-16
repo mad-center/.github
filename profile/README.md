@@ -21,8 +21,6 @@
 
 <details>
   <summary>Click me to expand</summary>
-  
-  ![105373](https://github.com/mad-center/.github/blob/main/profile/assets/105373.jpg)
+  ![105373](https://github.com/mad-center/.github/blob/main/profile/assets/narcissu-1.jpeg)
 </details>    
-
 

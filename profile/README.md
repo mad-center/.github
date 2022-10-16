@@ -12,7 +12,7 @@
 -->
 
 <!--
-![105373](./assets/105373.jpg)
+![banner](https://github.com/mad-center/.github/blob/main/profile/assets/sora-no-woto-1.jpg)
 -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mad-center.github&left_color=gray&right_color=green)
@@ -21,6 +21,6 @@
 
 <details>
   <summary>Click me to expand</summary>
-  ![banner](https://github.com/mad-center/.github/blob/main/profile/assets/sora-no-woto-1.jpg)
+  <img src="https://github.com/mad-center/.github/blob/main/profile/assets/narcissu-1.jpeg" alt="profile banner">
 </details>    
 

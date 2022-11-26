@@ -24,3 +24,4 @@
   <img src="https://github.com/mad-center/.github/blob/main/profile/assets/narcissu-1.jpeg" alt="profile banner">
 </details>    
 
+巅峰诞生虚伪的拥护，黄昏见证真正的信徒。

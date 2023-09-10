@@ -15,7 +15,7 @@
 ![banner](https://github.com/mad-center/.github/blob/main/profile/assets/sora-no-woto-1.jpg)
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mad-center.github&left_color=gray&right_color=green)
+![Profile views](https://komarev.com/ghpvc/?username=mad-center)
 
 > 欢迎来到静止系MAD的教程世界。
 

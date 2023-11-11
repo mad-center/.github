@@ -65,9 +65,9 @@
 
 | 项目链接                                                                                                       | 项目描述                                               | 需求分析   | 进度  | 优先级 | 维护  |
 |------------------------------------------------------------------------------------------------------------|----------------------------------------------------|--------|-----|-----|-----|
-| [extract-frames-by-ffmpeg](https://github.com/mad-center/extract-frames-by-ffmpeg)                         | Use ffmpeg to extract frames from video            | 视频抽帧   | 完成  | 低   | 搁置  |
-| [video-super-resolution-by-realesrgan](https://github.com/mad-center/video-super-resolution-by-realesrgan) | Using realesrgan to achieve video super-resolution | 视频超分   |     |     |     |
-| [video-edge-detection-opencv](https://github.com/mad-center/video-edge-detection-opencv)                   | video edge detection by opencv-python.             | 视频边缘检测 | 完成  | 低   | 搁置  |
+| [extract-frames-by-ffmpeg](https://github.com/mad-center/extract-frames-by-ffmpeg)                         | 使用 ffmpeg 对视频抽帧            | 视频抽帧   | 完成  | 低   | 搁置  |
+| [video-super-resolution-by-realesrgan](https://github.com/mad-center/video-super-resolution-by-realesrgan) | 使用 realesrgan 对视频超分 | 视频超分   |     |     |     |
+| [video-edge-detection-opencv](https://github.com/mad-center/video-edge-detection-opencv)                   | 使用 opencv-pytho 对视频边缘检测            | 视频边缘检测 | 完成  | 低   | 搁置  |
 
 ### MAD X AE
 

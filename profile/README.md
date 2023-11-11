@@ -23,7 +23,7 @@
 |--------------------------------------------------------------------------------|-----------------------------|---------------------|-----|-----|-----|
 | [imitate-cyan-sora](https://github.com/mad-center/imitate-cyan-sora)           | MAD 教程•模仿篇：仿青空              | 青空 MAD 模仿参考         | 草稿  | 低   | LTS |
 | [imitate-black-box](https://github.com/mad-center/imitate-black-box)           | MAD 教程•模仿篇：仿黑盒              | 黑盒 MG 模仿参考          | 完成  | 低   | LTS |
-| [imitate-2010-autumn-op](https://github.com/mad-center/imitate-2010-autumn-op) | MAD 教程•模仿篇：仿动画基地 2010 秋季 OP | 2010 秋季 OP MAD 模仿参考 | 完成  | 低   | LTS |
+| [imitate-2010-autumn-op](https://github.com/mad-center/imitate-2010-autumn-op) | MAD 教程•模仿篇：仿秋季 OP | 秋季 OP MAD 模仿参考 | 完成  | 低   | LTS |
 | [imitate-amaryllis](https://github.com/mad-center/imitate-amaryllis)           | MAD 教程•模仿篇：仿彼岸花             | 彼岸花 MG 模仿参考         | 草稿  | 低   | LTS |
 
 ### 静止系 MAD 学习
@@ -32,17 +32,17 @@
 
 | 项目链接                                                                                     | 项目描述                      | 需求分析                | 进度  | 优先级 | 维护  |
 |------------------------------------------------------------------------------------------|---------------------------|---------------------|-----|-----|-----|
-| [study-narcissu-of-xifengzui](https://github.com/mad-center/study-narcissu-of-xifengzui) | MAD 教程•学习篇：一个水仙 MAD 的工程研究 | /                   | 完成  | 低   | N   |
-| [imitate-base-image](https://github.com/mad-center/imitate-base-image)                   | MAD 学习篇：仿 base image（仅工程） | base image MAD 模仿参考 | 完成  | 低   | N   |
+| [study-narcissu-of-xifengzui](https://github.com/mad-center/study-narcissu-of-xifengzui) | MAD 教程•学习篇：水仙 MAD  | /                   | 完成  | 低   | N   |
+| [imitate-base-image](https://github.com/mad-center/imitate-base-image)                   | MAD 学习篇：仿 base image（仅工程） | base image 模仿参考 | 完成  | 低   | N   |
 | [imitate-try-of-jm-triangle](https://github.com/mad-center/imitate-try-of-jm-triangle)   | MAD 学习篇：仿 try（仅工程）        | /                   | 完成  | 低   | N   |
 
 ### MAD 资源导航
 
 | 项目链接                                                     | 项目描述                                                                                               | 需求分析          | 进度  | 优先级 | 维护  |
 |----------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------|-----|-----|-----|
-| [mad-center/CGexplorer01.github.io](https://github.com/mad-center/CGexplorer01.github.io) | MAD/AMV 相关的资源、教程、文章与工具的整合地。[MAD 图书馆](https://acglibrary.com/) | | | |
-| [acg-library](https://github.com/mad-center/acg-library) | 早期 MAD 教程汇总（过时），衍生自 [CGexplorer01.github.io](https://github.com/mad-center/CGexplorer01.github.io) | 保存古老的 MAD 教程  | 完成  | 低   | N/A |
-| [awesome-mad](https://github.com/mad-center/awesome-mad) | 围绕静止系 MAD 的教程资源导航                                                                                  | MAD 相关资源收集与导航 | 完成  | 低   | LTS |
+| [CGexplorer01.github.io](https://github.com/mad-center/CGexplorer01.github.io) | [MAD 图书馆](https://acglibrary.com/) | | | |
+| [acg-library](https://github.com/mad-center/acg-library) | 早期 MAD 教程，衍生自 [MAD 图书馆](https://acglibrary.com/) | 保存古老的 MAD 教程  | 完成  | 低   | N/A |
+| [awesome-mad](https://github.com/mad-center/awesome-mad) | 静止系 MAD 的资源导航                        | MAD 相关资源导航 | 完成  | 低   | LTS |
 
 ### 本组织相关的项目
 
@@ -57,9 +57,9 @@
 
 | 项目链接                                                                           | 项目描述                                        | 需求分析                 | 进度  | 优先级 | 维护       |
 |--------------------------------------------------------------------------------|---------------------------------------------|----------------------|-----|-----|----------|
-| [mad-player-experiment](https://github.com/mad-center/mad-player-experiment)   | Implementation of MAD player based on mo.js | 异想天开的 MAD 播放器探索      | 完成  | 低   | Archived |
-| [mad-ui-incubator](https://github.com/mad-center/mad-ui-incubator)             | 使用 Web 前端技术来模仿 MAD 效果的前端 UI 组件库             | 受 MAD 文化启发的前端 UI 组件库 | 孵化  | 中   | 等待重生     |
-| [vitepress-book-starter](https://github.com/mad-center/vitepress-book-starter) | 在线教程预览的模板项目。基于 vitepress。                   | 为教程在线预览提供支持          | 完成  | 高   | LTS      |
+| [mad-player-experiment](https://github.com/mad-center/mad-player-experiment)   | 基于 mo.js 实现 MAD 视频 | Web MAD 播放器探索      | 完成  | 低   | Archived |
+| [mad-ui-incubator](https://github.com/mad-center/mad-ui-incubator)             | Web UI 组件库             | 受 MAD 启发的UI 组件库 | 孵化  | 中   | 等待重生     |
+| [vitepress-book-starter](https://github.com/mad-center/vitepress-book-starter) | 基于 vitepress 的在线文档模板                   | 为在线预览教程提供支持          | 完成  | 高   | LTS      |
 
 ### MAD 与 视频处理
 
@@ -73,8 +73,8 @@
 
 | 项目链接                                                                              | 项目描述                     | 需求分析            | 进度  | 优先级 | 维护  |
 |-----------------------------------------------------------------------------------|--------------------------|-----------------|-----|-----|-----|
-| [font-search](https://github.com/mad-center/font-search)                          | 导出 AE 工程项目使用的字体列表名称      | 用于修复 AE 项目缺失的字体 | 完成  | 低   | 搁置  |
-| [mad-center/Effects-Collection](https://github.com/mad-center/Effects-Collection) | Effects-Collection 特效图鉴。 |                 |     |     |
+| [font-search](https://github.com/mad-center/font-search)                          | 导出 AE 工程使用的字体列表      | 修复 AE 项目缺失字体 | 完成  | 低   | 搁置  |
+| [mad-center/Effects-Collection](https://github.com/mad-center/Effects-Collection) | Effects-Collection 特效图鉴 |                 |     |     |
 
 ### 其余项目
 

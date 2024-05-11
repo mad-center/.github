@@ -82,6 +82,7 @@
 |----------------------------------------------------------------------------|-----------------------|-------------------|-----|-----|-----|
 | [bilibili-mad-crawler](https://github.com/mad-center/bilibili-mad-crawler) | bilibili 分区视频的爬虫设计与实现 | 观测 B 站 MAD 分区视频数据 | 完成  | 低   | 搁置  |
 | [mad-effect-in-action](https://github.com/mad-center/mad-effect-in-action) | 静止系 MAD 效果实战          | MAD 独立效果的小教程      | 孵化  | 低   | 搁置  |
+| [Anime study](https://github.com/mad-center/anime-study)| 动画研究的论文收集 | 从学术的角度来研究动画 | N/A| 低| N|
 
 ## 贡献指南
 
